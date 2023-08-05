@@ -1,0 +1,14 @@
+@font-face {
+  font-family: Inter;
+  src: url(../fonts/inter_cyrillic-regular.woff2) format('woff2'),
+    url(../fonts/inter_cyrillic-regular.woff) format('woff');
+  font-display: swap;
+  font-weight: 400;
+}
+@font-face {
+  font-family: Inter;
+  src: url(../fonts/inter_cyrillic-700.woff2) format('woff2'),
+    url(../fonts/inter_cyrillic-700.woff) format('woff');
+  font-display: swap;
+  font-weight: 700;
+}
